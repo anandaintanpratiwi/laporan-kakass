@@ -16,6 +16,13 @@ ul {
   min-height: 100vh;
 }
 
+.sidebar {
+  width: 250px;
+  background-color: #bf750e;
+  color: #fff;
+  padding: 1em;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
 
 .sidebar header {
   text-align: center;
