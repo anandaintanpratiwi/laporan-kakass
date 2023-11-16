@@ -44,11 +44,7 @@ ul {
   text-decoration: none;
   color: #fff;
   font-weight: bold;
-}
-.sidebar nav li:hover {
-  background-color: #ead7bb;
-  border-radius: 2px;
-}
+
 .sidebar nav li.active-nav {
   background-color: #ead7bb;
   border-radius: 2px;
