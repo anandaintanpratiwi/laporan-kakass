@@ -67,13 +67,6 @@ header {
 header h1 {
   font-weight: 200;
 }
-.widget {
-  background-color: #ffffff;
-  padding: 1em;
-  padding-left: 0;
-  margin-bottom: 1em;
-  margin-top: 20px;
-}
 
 .navbar ul {
   list-style-type: none;
