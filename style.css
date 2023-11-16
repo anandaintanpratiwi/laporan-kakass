@@ -11,10 +11,7 @@ ul {
   list-style-type: none;
 }
 
-.dashboard-container {
-  display: flex;
-  min-height: 100vh;
-}
+
 
 .sidebar {
   width: 250px;
