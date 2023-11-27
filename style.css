@@ -11,18 +11,6 @@ ul {
   list-style-type: none;
 }
 
-.dashboard-container {
-  display: flex;
-  min-height: 100vh;
-}
-
-.sidebar {
-  width: 250px;
-  background-color: #bf750e;
-  color: #fff;
-  padding: 1em;
-  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-}
 
 .sidebar header {
   text-align: center;
@@ -66,6 +54,13 @@ header {
 }
 header h1 {
   font-weight: 200;
+}
+.widget {
+  background-color: #ffffff;
+  padding: 1em;
+  padding-left: 0;
+  margin-bottom: 1em;
+  margin-top: 20px;
 }
 
 .navbar ul {
